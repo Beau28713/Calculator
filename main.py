@@ -54,14 +54,14 @@ class Calculator(BoxLayout):
             self.solution_output.text = str(self.output)
         except BaseException as error:
             error = str(error)
-            
-            if error == 'invalid syntax (<string>, line 1)':
+            if error == "invalid syntax (<string>, line 1)":
                 self.solution_output.text = (
                     "First input must be a number not an operation"
                 )
             elif error == "division by zero":
-                
                 self.solution_output.text = "Can Not Divide by Zero"
+            else:
+                self.solution_output.text = error
 
 
 class MY_App(App):
