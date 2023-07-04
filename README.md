@@ -2,7 +2,7 @@
 GUI Calculator
 
 ## Description 
-GUI calculator built using Python 3.10 and Kivy 2.1.0
+GUI calculator built using Kivy 2.1.0
 
 ## Purpose  
 To learn the basics of the Kivy GUI framwork
