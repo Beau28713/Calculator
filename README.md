@@ -8,7 +8,7 @@ GUI calculator built using Kivy 2.1.0
 To learn the basics of the Kivy GUI framwork
 
 ## Requirments
-Python 3.11  
+Python ^3.9 
 Kivy 2.1.0
 
 ## How to Install
