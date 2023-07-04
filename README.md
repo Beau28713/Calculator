@@ -15,8 +15,12 @@ Kivy 2.1.0
 `pip install calculator-beau28713`
 
 ## How to run
-`python -m calculator_beau28713`
+`python -m calculator_beau28713`  
 
 
 
-![Image](http://url/a.png)
+
+---------------------------------------
+
+
+![Image](https://github.com/Beau28713/Calculator_beau28713/blob/main/Calc.PNG)
